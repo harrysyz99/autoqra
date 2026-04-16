@@ -1,0 +1,50 @@
+# Python build / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Virtual envs
+.venv/
+venv/
+env/
+.conda/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data / outputs
+results/
+results_*/
+outputs/
+logs/
+*.log
+wandb/
+runs/
+
+# Model weights & checkpoints
+*.safetensors
+*.bin
+*.ckpt
+*.pt
+*.pth
+checkpoint-*/
+final_model/
+
+# HF cache
+.cache/
+huggingface/
+models--*/

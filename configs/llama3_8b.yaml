@@ -1,0 +1,24 @@
+name: llama3_8b
+model_id: meta-llama/Meta-Llama-3-8B
+num_layers: 32
+hidden_size: 4096
+
+search_space:
+  bits: [2, 3, 4, 8]
+  ranks: [4, 8, 16]
+
+memory:
+  budget_bytes: 6.0e9
+  block_size: 128
+  meta_precision_bits: 16
+
+phase2:
+  pop_size: 40
+  generations: 12
+  promote_k: 6
+  gamma: 1.5
+
+phase3:
+  alpha: 0.6
+  k_neighbors: 5
+  max_iterations: 3
