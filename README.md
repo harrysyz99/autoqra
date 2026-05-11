@@ -8,7 +8,7 @@ AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-Rank Adapter
       <img src="https://img.shields.io/badge/Paper-ICML%202026-blue" alt="Paper"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Status-Under%20Review-orange" alt="Status"/>
+      <img src="https://img.shields.io/badge/Status-Accept-orange" alt="Status"/>
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
