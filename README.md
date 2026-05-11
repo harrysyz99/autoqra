@@ -141,13 +141,11 @@ pytest tests/ -v
 If you find this project useful, please cite us:
 
 ```bibtex
-@inproceedings{autoqra2026,
-  title     = {AutoQRA: Joint Optimization of Mixed-Precision Quantization
-               and Low-Rank Adapters for Efficient LLM Fine-Tuning},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the International Conference on Machine
-               Learning (ICML)},
-  year      = {2026}
+@article{zhou2026autoqra,
+  title={AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning},
+  author={Zhou, Changhai and Zhang, Shiyang and Zhou, Yuhua and Qiao, Qian and Gao, Jun and Jin, Cheng and Qin, Kaizhou and Zhang, Weizhong},
+  journal={arXiv preprint arXiv:2602.22268},
+  year={2026}
 }
 ```
 
