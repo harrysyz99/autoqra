@@ -4,7 +4,7 @@ AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-Rank Adapter
 
 <div align='center' style="font-size:18px;">
 <p>
-    <a href="[./paper.pdf](https://arxiv.org/abs/2602.22268)">
+    <a href="https://arxiv.org/abs/2602.22268">
       <img src="https://img.shields.io/badge/Paper-ICML%202026-blue" alt="Paper"/>
     </a>
     <a href="#">
